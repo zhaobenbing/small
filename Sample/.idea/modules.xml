@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sample.iml" filepath="$PROJECT_DIR$/Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app+stub/app+stub.iml" filepath="$PROJECT_DIR$/app+stub/app+stub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.detail/app.detail.iml" filepath="$PROJECT_DIR$/app.detail/app.detail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.home/app.home.iml" filepath="$PROJECT_DIR$/app.home/app.home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.main/app.main.iml" filepath="$PROJECT_DIR$/app.main/app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.mine/app.mine.iml" filepath="$PROJECT_DIR$/app.mine/app.mine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.ok-if-stub/app.ok-if-stub.iml" filepath="$PROJECT_DIR$/app.ok-if-stub/app.ok-if-stub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jni_plugin/jni_plugin.iml" filepath="$PROJECT_DIR$/jni_plugin/jni_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.analytics/lib.analytics.iml" filepath="$PROJECT_DIR$/lib.analytics/lib.analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.style/lib.style.iml" filepath="$PROJECT_DIR$/lib.style/lib.style.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.utils/lib.utils.iml" filepath="$PROJECT_DIR$/lib.utils/lib.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor-aar/vendor-aar.iml" filepath="$PROJECT_DIR$/vendor-aar/vendor-aar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web.about/web.about.iml" filepath="$PROJECT_DIR$/web.about/web.about.iml" />
+    </modules>
+  </component>
+</project>

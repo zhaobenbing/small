@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-animated-vector-drawable-25.1.0_45843c86e660e2d86a2fadaff48f61bbed3337ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-support-compat-25.1.0_2d6985bd6962e8b9689722388d6953cd7e5af33d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-support-fragment-25.1.0_50ba3f9f23fac26d58bd14faef1683a016236a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/Sample/app+stub/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d752623ec8b3bfc4097c8265b9b0d07670be7acd">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/Sample-app+stub-unspecified_cf610b07b5c84ae45f710f977ed4fee62962e517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-recyclerview-v7-25.1.0_8de97839b3acdbd23c8ada1825caee204cfe11fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app.mine/build/intermediates/transforms/smallStripped/release/jars/1/4/jni_plugin-unspecified.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d25141d345690a039f580e12dcb4eb2c7d5ee1d5">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app.mine/build/intermediates/pre-dexed/release/jni_plugin-unspecified_c232411551a5cfa72c63b5b3702096f932673cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/Sample/vendor-aar/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e63a0cad9d76864413ab74fe07a6297727ca825">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/Sample-vendor-aar-unspecified_9211d644b9073bab297baefd58228740570ee6dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/lib.utils/build/intermediates/transforms/smallStripped/release/jars/1/2/lib.utils-mylib-mylib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb7593f15edfdd51537242dd4fe1c10886b2652d">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/lib.utils/build/intermediates/pre-dexed/release/lib.utils-mylib-mylib_e95ceb35fb8080389b49f414a84b6a53ce9ffa55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-support-v4-25.1.0_f0247fc7fd88e1dc8bd087a6e21c05ae7cae4ca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-support-vector-drawable-25.1.0_df2c46d9881ab602888c6eb0f2850d6a4e35fff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-design-25.1.0_572294c5929df1b7120e3685510298a2b8a13489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/lib.analytics/build/intermediates/transforms/smallStripped/release/jars/1/10/analytics-6.0.1-aab9085bca0c26dcb9cb11837a5f5e22cc102a5e.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/lib.analytics/build/intermediates/pre-dexed/release/analytics-6.0.1-aab9085bca0c26dcb9cb11837a5f5e22cc102a5e_1583867a5fe657f82818f4e3d44705d010ed44f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-support-core-ui-25.1.0_2e76a014fa7cc4eed253bbca82d951294d5fb698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/support-annotations-25.1.0_6cef484e0633ebbf6f66187132cf53e18ca89630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-support-media-compat-25.1.0_3a3fcaad0f5fcb79f34f51735dc56216a7dd5eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-appcompat-v7-25.1.0_eeac0df8a935f1cbad78a46d56c8690b2daa6d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-support-core-utils-25.1.0_58f6eb3950b5340867c370b70110dbc4244c4e4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/net.wequick.small/small/1.2.0-alpha6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83ea4166631d709c8a52f12190595ad85fbc67d8">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/net.wequick.small-small-1.2.0-alpha6_954b34ba0a25800fb1647e97f90514499c1c5650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/zhaobenbing/github/Small/Android/Sample/app/build/intermediates/pre-dexed/wequick/debug/com.android.support-transition-25.1.0_f30b4e0c7893d3f59b056c2e7f09411cc3246a0d.jar" />
+    </item>
+
+</items>
