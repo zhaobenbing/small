@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/lib.analytics/lib.analytics.iml" filepath="$PROJECT_DIR$/lib.analytics/lib.analytics.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib.style/lib.style.iml" filepath="$PROJECT_DIR$/lib.style/lib.style.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib.utils/lib.utils.iml" filepath="$PROJECT_DIR$/lib.utils/lib.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small/small.iml" filepath="$PROJECT_DIR$/small/small.iml" />
       <module fileurl="file://$PROJECT_DIR$/vendor-aar/vendor-aar.iml" filepath="$PROJECT_DIR$/vendor-aar/vendor-aar.iml" />
       <module fileurl="file://$PROJECT_DIR$/web.about/web.about.iml" filepath="$PROJECT_DIR$/web.about/web.about.iml" />
     </modules>

@@ -89,7 +89,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/net.wequick.small/small/1.2.0-alpha6/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental-safeguard" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
@@ -105,12 +104,11 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="support-annotations-25.1.0" level="project" />
     <orderEntry type="library" exported="" name="support-compat-25.1.0" level="project" />
     <orderEntry type="library" exported="" name="support-fragment-25.1.0" level="project" />
     <orderEntry type="library" exported="" name="animated-vector-drawable-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="support-annotations-25.1.0" level="project" />
     <orderEntry type="library" exported="" name="support-v4-25.1.0" level="project" />
-    <orderEntry type="library" exported="" name="small-1.2.0-alpha6" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="hamcrest-core-1.3" level="project" />
     <orderEntry type="library" exported="" name="support-core-ui-25.1.0" level="project" />
     <orderEntry type="library" exported="" name="support-media-compat-25.1.0" level="project" />
@@ -120,8 +118,44 @@
     <orderEntry type="library" exported="" name="support-core-utils-25.1.0" level="project" />
     <orderEntry type="module" module-name="lib.style" exported="" />
     <orderEntry type="module" module-name="app+stub" exported="" />
+    <orderEntry type="module" module-name="small" exported="" />
+    <orderEntry type="library" exported="" name="com.android.support-appcompat-v7-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="Sample-vendor-aar-unspecified" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-recyclerview-v7-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-support-fragment-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="Sample-app+stub-assets" level="project" />
     <orderEntry type="library" exported="" name="classes" level="project" />
+    <orderEntry type="library" exported="" name="1_classes" level="project" />
+    <orderEntry type="library" exported="" name="2_classes" level="project" />
+    <orderEntry type="library" exported="" name="3_classes" level="project" />
+    <orderEntry type="library" exported="" name="4_classes" level="project" />
+    <orderEntry type="library" exported="" name="5_classes" level="project" />
+    <orderEntry type="library" exported="" name="6_classes" level="project" />
+    <orderEntry type="library" exported="" name="7_classes" level="project" />
+    <orderEntry type="library" exported="" name="8_classes" level="project" />
+    <orderEntry type="library" exported="" name="9_classes" level="project" />
+    <orderEntry type="library" exported="" name="10_classes" level="project" />
+    <orderEntry type="library" exported="" name="11_classes" level="project" />
+    <orderEntry type="library" exported="" name="12_classes" level="project" />
+    <orderEntry type="library" exported="" name="13_classes" level="project" />
+    <orderEntry type="library" exported="" name="14_classes" level="project" />
+    <orderEntry type="library" exported="" name="15_classes" level="project" />
+    <orderEntry type="library" exported="" name="16_classes" level="project" />
+    <orderEntry type="library" exported="" name="net.wequick.small-small-1.2.0-alpha6" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-design-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-transition-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="Sample-app+stub-unspecified" level="project" />
+    <orderEntry type="library" exported="" name="app-r" level="project" />
     <orderEntry type="library" exported="" name="assets" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-support-v4-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-support-vector-drawable-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-animated-vector-drawable-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-support-annotations-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-support-compat-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-support-media-compat-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="com.umeng.analytics-analytics-6.0.1" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-support-core-utils-25.1.0" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support-support-core-ui-25.1.0" level="project" />
     <orderEntry type="library" exported="" name="vendor-aar-unspecified" level="project" />
   </component>
 </module>
