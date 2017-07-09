@@ -38,6 +38,11 @@
       "pkg": "net.wequick.example.small.appok_if_stub"
     },
     {
+      "uri": "help",
+      "type": "app",
+      "pkg": "net.wequick.example.small.help"
+    },
+    {
       "uri": "about",
       "pkg": "net.wequick.example.small.web.about"
     }

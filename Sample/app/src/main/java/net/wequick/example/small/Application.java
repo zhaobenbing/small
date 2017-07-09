@@ -30,7 +30,7 @@ public class Application extends android.app.Application {
         super.onCreate();
 
         // Optional
-        Small.setBaseUri("http://code.wequick.net/small-sample/");
+//        Small.setBaseUri("http://code.wequick.net/small-sample/");
         Small.setWebViewClient(new MyWebViewClient());
         Small.setLoadFromAssets(BuildConfig.LOAD_FROM_ASSETS);
     }

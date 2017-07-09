@@ -1,4 +1,4 @@
-include ':app',
+include ':app', ':app.help',
         ':app.main', ':app.home', ':app.detail', ':app.mine',
         ':lib.utils', ':web.about', ':lib.style',
         ':jni_plugin', ':lib.analytics',

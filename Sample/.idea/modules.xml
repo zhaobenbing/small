@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app+stub/app+stub.iml" filepath="$PROJECT_DIR$/app+stub/app+stub.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.detail/app.detail.iml" filepath="$PROJECT_DIR$/app.detail/app.detail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.help/app.help.iml" filepath="$PROJECT_DIR$/app.help/app.help.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.home/app.home.iml" filepath="$PROJECT_DIR$/app.home/app.home.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.main/app.main.iml" filepath="$PROJECT_DIR$/app.main/app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.mine/app.mine.iml" filepath="$PROJECT_DIR$/app.mine/app.mine.iml" />
